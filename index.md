@@ -1,7 +1,7 @@
-# Project Name Here
+# quzzie portfolio 
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
-
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
+My project is about a line movving robot. My goal for this project is to make the robot capable to drive around and even follow lines. I figured my biggest challege so far was building the robot. So far this might be my biggest challege yet because i get some pieces mixed up while building my robot, but so far im going good while building my robot.
+You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions: 
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
