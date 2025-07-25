@@ -26,7 +26,11 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
-Hello my name is quzzie and this is my final milstone at blue stamped engenering, during these three weeks at blue stamped engenering i was able to acheve the goal for making the car move by code, speed up, follow a line, avoide a modules and follow my hand. During these three weeks of coding building wireing and asembeling I am prowed for the acamplishment of coding the robot to do all these things. My biggest challenge at blue stamped engenering were coding wiring and building, because I was a beginner at bluestamped engernering I didn't know anything about what i was doing, but thanks to my instructer lee and the help of blue stamped engenering i was able o learn quickly about everything causing me to acamplise the achevement that ive made for example the robot being able to follow a line. So far at the end of blue stamped engenering i hope to on day learn to build a bridge when i become a civil engener, I am confedent i am going to reach my goal of becoming a civil engenering because of blue stamped engenerings help giving me more information about becoming an engenering. 
+Hello, my name is Quzzie, and this is my final milestone at BlueStamp Engineering. During these three weeks, I was able to achieve my goal of making the car move with code, speed up, follow a line, avoid obstacles, and respond to my hand.
+Throughout this time, I focused on coding, building, wiring, and assembling. I’m proud of my accomplishment—getting the robot to do all these things was no small feat. My biggest challenges were learning how to code, wire, and build, especially since I was a beginner. At first, I didn’t know anything about what I was doing, but thanks to my instructor Lee and the support from BlueStamp Engineering, I was able to learn quickly and achieve great results, like getting the robot to follow a line.
+As my summer program comes to an end, I hope one day to learn how to build a bridge when I become a civil engineer. I’m confident I’ll reach that goal, and I’m grateful to BlueStamp Engineering for giving me the knowledge and inspiration to pursue engineering.
+
+
 
 # Second Milestone
 
@@ -39,7 +43,10 @@ For your second milestone, explain what you've worked on since your previous mil
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 
-So far what i've worked on during my preveous milstone were making the line following robot follow a line dodge obsticals and follow my hand. During the 2nd week it was a sucsess during my summer program at bluestamped engenering online. While i was build, wireing and coding my car im suprived to make the car be able to work. Dur this summer program my enstrucker lee helped me with every thing i needed to work on, for example my first time finishing the wcar ive needed the code and thanks to my instructer he tought me were the code is how to read it and what it ment. some preveouse challenges ive faced were the building, this challenge was very frustrating because ive broken so many piece but the good thing was that didn't stop me from finishing up this robot i keeped on trying till ive got it right. So far nothing needs to be compleated but im am proude of myself for finishing up my car. 
+So far, during my previous milestone, I worked on getting my line-following robot to follow a line, dodge obstacles, and even track my hand. By the second week, it was a success! I achieved this during my summer program at BlueStamp Engineering Online.
+While I was building, wiring, and coding my car, I was surprised that I actually got it to work. During the program, my instructor Lee helped me with everything I needed—whether it was replacing broken materials or helping me find the right code to move the robot. I especially want to thank my instructor for teaching me where to find the code, how to read it, and what it meant.
+Some of the challenges I faced were during the building process. That part was especially frustrating because I broke so many pieces. But the good thing is, I didn’t let that stop me. I kept trying until I got it right.
+So far, there’s nothing left to complete, and I’m really proud of myself for finishing my car!
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
